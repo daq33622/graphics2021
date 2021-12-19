@@ -1,0 +1,4 @@
+﻿  main.cpp
+d:\test\opengl\22151031_董爱祁\project1\project1\main.cpp(97): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\test\opengl\22151031_董爱祁\project1\project1\main.cpp(98): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  Project1.vcxproj -> D:\test\OpenGL\22151031_董爱祁\Project1\x64\Debug\Project1.exe
